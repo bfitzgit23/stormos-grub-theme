@@ -23,12 +23,6 @@ terminal-font: "Unifont Regular 16"
     highlight_style = "progress_bar/progress_bar_hl_*.png"
 }
 
-# Image logo
-+ image {
-	top = 13%
-	left = 50%-94
-    file = "logo.png"
-}
 
 # Show countdown message
 + label {
