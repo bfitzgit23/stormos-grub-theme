@@ -4,7 +4,7 @@
 
 ROOT_UID=0
 THEME_DIR="/usr/share/grub/themes"
-THEME_NAME=stormos-xfce 
+THEME_NAME=stormos 
 
 MAX_DELAY=20                                        # max delay for user to enter root password
 
