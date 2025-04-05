@@ -1,10 +1,10 @@
-# acreetionos-xfce Grub Theme
+# StormOS Grub Theme
 #
 # Copyright (C) 2021 StormOS-Dev
 
 # Settings
 title-text: ""
-title-color: "#b650d6"
+title-color: "#0fa2f2"
 desktop-image: "background.png"
 desktop-color: "#000000"
 terminal-box: "terminal_box_*.png"
@@ -32,7 +32,7 @@ terminal-font: "Unifont Regular 16"
 	align = "center"
 	id = "__timeout__"
 	text = "Booting in %d seconds"
-	color = "#b650d6"
+	color = "#0fa2f2"
 	font = "Unifont Regular 16"
 }
 
@@ -43,7 +43,7 @@ terminal-font: "Unifont Regular 16"
   	width = 50%
   	height = 60%
   	item_font = "Unifont Regular 16"
-  	item_color = "#b650d6"
+  	item_color = "#0fa2f2"
   	selected_item_color = "#011018"
   	icon_width = 26
   	icon_height = 26
@@ -63,5 +63,5 @@ terminal-font: "Unifont Regular 16"
 	text = "@KEYMAP_MIDDLE@"
 	align = "center"
 	font = "Unifont Regular 16"
-	color = "#b650d6"
+	color = "#e8e8e8"
 }
